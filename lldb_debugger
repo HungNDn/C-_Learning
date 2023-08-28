@@ -1,0 +1,5 @@
+$ g++ -g GameSnake.cpp -lncurses -pthread -o run
+$ lldb ./run
+(lldb) run
+press r to debug.
+(lldb) b main => detect point break in main.

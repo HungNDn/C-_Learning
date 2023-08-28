@@ -71,3 +71,5 @@ git cherry-pick branch-X
 
 
 Cmd + Shift + period (.) để hiển thị các tệp ẩn trên máy Mac của bạn.
+
+git remote set-url origin https://[APPLICATION]:[NEW TOKEN]@github.com/[ORGANISATION]/[REPO].git

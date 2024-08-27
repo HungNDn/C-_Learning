@@ -72,6 +72,8 @@ git cherry-pick branch-X
 
 Cmd + Shift + period (.) để hiển thị các tệp ẩn trên máy Mac của bạn.
 
+https://github.com/settings/tokens
+
 git remote add origin https://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@github.com/HungNDn/C-_Learning.git
 
  git push https://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@github.com/HungNDn/C-_Learning.git
